@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PSProcesos</string>
+    <string name="connected">CONECTADO</string>
+    <string name="check">CHECK</string>
+    <string name="conexioninternet">Conexión a Internet:</string>
+    <string name="disconnected">DESCONECTADO</string>
+    <string name="ip">Tu dirección IP actual: </string>
+    <string name="searchingIP">Buscando IP...</string>
+    <string name="searchingInternet">Comprobando Internet...</string>
+</resources>
